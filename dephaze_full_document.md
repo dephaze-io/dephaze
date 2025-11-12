@@ -4,8 +4,8 @@
 *Independent Research, Dephaze Manufacture*
 `dewerangus@gmail.com`
 
-*Version 2.0 --- ArXiv Submission Draft*
-*November 12, 2025*
+*Version 2.0  
+*November 08, 2025*
 
 > ### Abstract
 > We present Dephaze, an axiomatic generative framework treating observable reality as a projection from a timeless ground state ($\Omega_0$) to manifest configurations ($\Psi$). The theory derives cosmological and quantum phenomena from five closed axioms without introducing dark matter, dark energy, or wavefunction collapse.
